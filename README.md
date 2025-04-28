@@ -1,5 +1,7 @@
 # Interactive-Classical-Report
 Interactive Classical Report
+When the user clck on the ouput of the primary window user is taken to the secondary window ouptut for that field.
+
 
 ![Screenshot (51)](https://github.com/user-attachments/assets/7c65bd78-d7f1-4bd1-9eaf-e0905f8ade1a)
 ![Screenshot (52)](https://github.com/user-attachments/assets/ebaf7e68-15a5-420a-b9ba-f067f8c1b136)
